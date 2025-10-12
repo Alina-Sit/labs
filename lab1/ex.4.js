@@ -1,5 +1,3 @@
-'use strict';
-
 const count_types = (arr) => {
     const dict = {};
     for (const el of arr) {
